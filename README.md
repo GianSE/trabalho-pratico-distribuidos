@@ -1,3 +1,7 @@
+Google Docs: https://docs.google.com/document/d/1Q_q7xZjwvYDJTGrpTRiK9T28nkxInMmn/edit?usp=sharing&ouid=101428962720009223562&rtpof=true&sd=true
+
+enunciado do trabalho prático: ENUNCIADO.md
+
 # Código Python entregue
 
 Esta pasta contém somente os arquivos Python usados na implementação,
