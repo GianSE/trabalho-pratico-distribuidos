@@ -1,6 +1,6 @@
 Google Docs: https://docs.google.com/document/d/1Q_q7xZjwvYDJTGrpTRiK9T28nkxInMmn/edit?usp=sharing&ouid=101428962720009223562&rtpof=true&sd=true
 
-enunciado do trabalho prático: ENUNCIADO.md
+Enunciado do trabalho prático: [ENUNCIADO.md](ENUNCIADO.md)
 
 # Código Python entregue
 
@@ -14,8 +14,13 @@ validação e medição da propagação de fake news.
 - `FakeNewsDistribuida.py`: versão distribuída com sockets TCP;
 - `test_implementacoes.py`: testes de equivalência entre as versões;
 - `benchmark.py`: medição reproduzível de tempos, speedup e eficiência.
+- `resultados_benchmark.csv`: resultados dos três cenários experimentais;
+- `grafico_tempo.png` e `grafico_speedup.png`: gráficos usados na apresentação;
+- `main-apresentacao.docx`: apresentação editável com tabela e gráficos.
 
-Não são necessárias bibliotecas externas.
+As implementações não dependem de bibliotecas externas. Para gerar os gráficos
+do benchmark, é necessário ter `matplotlib` instalado (`python -m pip install
+matplotlib`).
 
 ## Execução
 
@@ -62,5 +67,7 @@ python benchmark.py
 ```
 
 O benchmark usa matriz `300 x 300`, dez gerações, 5% de espalhadores
-iniciais, limiar 3 e semente 42. Ele gera `resultados_benchmark.csv` na
-própria pasta, com tempos, speedup e eficiência.
+iniciais, limiar 3 e semente 42, além de cenários menores para comparar o
+efeito do tamanho da matriz, do número de gerações e do percentual inicial.
+Ele gera `resultados_benchmark.csv`, `grafico_tempo.png` e
+`grafico_speedup.png` na própria pasta, com tempos, speedup e eficiência.

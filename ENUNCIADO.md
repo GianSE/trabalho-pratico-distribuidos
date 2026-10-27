@@ -209,16 +209,16 @@ Como o vídeo deve ser entregue
 Qualquer inadequação a essas regras terá desconto na nota final (0,5 por erro)
 
 Critérios de Avaliação
-Item 	Pontuação
-Código Paralelo/Distribuído funcionando corretamente 	1
-Participação de todos no vídeo 	1
-Respostas e explicações técnicas apresentadas 	0,5
-Qualidade e organização dos códigos comentados 	1
-Resultados experimentais 	1
-Melhorias e Inovações* 	até 3
-Cumprimento do tempo estabelecido para apresentação 	0,5
-Qualidade dos slides e apresentação 	1
-Referências utilizadas 	1
+Item | Pontuação
+Código Paralelo/Distribuído funcionando corretamente |	1
+Participação de todos no vídeo |	1
+Respostas e explicações técnicas apresentadas |	0,5
+Qualidade e organização dos códigos comentados |	1
+Resultados experimentais |	1
+Melhorias e Inovações* |	até 3
+Cumprimento do tempo estabelecido para apresentação |	0,5
+Qualidade dos slides e apresentação |	1
+Referências utilizadas |	1
 
 *Cada melhoria/inovação poderá acrescentar até 0,5 ponto, limitado ao máximo de 3,0 pontos. É a critério do professor e deverão estar bem documentadas no material entregue.
 
