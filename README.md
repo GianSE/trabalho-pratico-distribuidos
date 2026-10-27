@@ -1,4 +1,4 @@
-Google Docs: https://docs.google.com/document/d/1Q_q7xZjwvYDJTGrpTRiK9T28nkxInMmn/edit?usp=sharing&ouid=101428962720009223562&rtpof=true&sd=true
+Google Docs: https://docs.google.com/document/d/1eRZZnyqymYBrIRO7Syz2xaWducygA-MQGRv2q0wrz2E/edit?usp=sharing
 
 Enunciado do trabalho prático: [ENUNCIADO.md](ENUNCIADO.md)
 
